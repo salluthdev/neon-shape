@@ -34,4 +34,6 @@
 	content: '';
 	width: 0;
 	height: 0;
+	border-left: 120px solid transparent;
+	border-right: 120px solid transparent;
 }
