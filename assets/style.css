@@ -6,3 +6,8 @@
 	scroll-behavior: smooth;
 	transition: 0.5s;
 }
+.circle
+{
+	width: 200px;
+	height: 200px;
+}
