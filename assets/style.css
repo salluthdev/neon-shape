@@ -24,4 +24,5 @@
 	position: relative;
 	width: 0;
 	height: 0;
+	border-left: 140px solid transparent;
 }
