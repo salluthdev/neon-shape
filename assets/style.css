@@ -21,6 +21,7 @@
 }
 .triangle
 {
+	position: relative;
 	width: 0;
 	height: 0;
 }
