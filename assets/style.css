@@ -26,4 +26,9 @@
 	height: 0;
 	border-left: 140px solid transparent;
 	border-right: 140px solid transparent;
+	border-bottom: 230px solid #29c17c;
+}
+.triangle::before
+{
+	content: '';
 }
