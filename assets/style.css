@@ -30,6 +30,7 @@
 }
 .triangle::before
 {
+	position: absolute;
 	content: '';
 	width: 0;
 	height: 0;
