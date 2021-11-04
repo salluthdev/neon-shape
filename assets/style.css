@@ -31,10 +31,12 @@
 .triangle::before
 {
 	position: absolute;
+	top: 20px;
+	left: -120px;
 	content: '';
 	width: 0;
 	height: 0;
 	border-left: 120px solid transparent;
 	border-right: 120px solid transparent;
-	border-bottom: 200px solid  #fff;
+	border-bottom: 200px solid #fff;
 }
