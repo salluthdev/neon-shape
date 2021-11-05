@@ -36,6 +36,15 @@ body
 	height: 200px;
 	margin: 0 120px;
 	border: 8px solid #3a49c2;
+	box-shadow:
+      0 0 7px #fff,
+      0 0 10px #fff,
+      0 0 21px #fff,
+      0 0 42px #3a49c2,
+      0 0 82px #3a49c2,
+      0 0 92px #3a49c2,
+      0 0 102px #3a49c2,
+      0 0 151px #3a49c2;
 }
 .triangle
 {
