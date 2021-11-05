@@ -8,11 +8,11 @@
 }
 body
 {
+	background: #231c30;
 	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background: #231c30;
 }
 .circle
 {
