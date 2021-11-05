@@ -9,6 +9,7 @@
 body
 {
 	display: flex;
+	justify-content: center;
 	background: #231c30;
 }
 .circle
