@@ -37,9 +37,11 @@ body
 	margin: 0 120px;
 	border: 8px solid #fff;
 	box-shadow:
+	  inset 0 0 1px #fff,
 	  inset 0 0 2px #fff,
 	  inset 0 0 12px #3a49c2,
 	  inset 0 0 21px #3a49c2,
+	  0 0 1px #fff,
       0 0 2px #fff,
       0 0 12px #3a49c2,
       0 0 21px #3a49c2,
