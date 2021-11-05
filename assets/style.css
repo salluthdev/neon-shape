@@ -8,6 +8,7 @@
 }
 body
 {
+	display: flex;
 	background: #231c30;
 }
 .circle
