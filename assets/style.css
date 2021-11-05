@@ -6,6 +6,10 @@
 	scroll-behavior: smooth;
 	transition: 0.5s;
 }
+body
+{
+	background: #231c30;
+}
 .circle
 {
 	width: 200px;
