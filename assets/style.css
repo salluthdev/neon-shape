@@ -28,7 +28,7 @@ body
 	  0 0 1px #fff,
       0 0 2px #fff,
       0 0 12px #dd4581,
-      0 0 21px #dd4581
+      0 0 21px #dd4581;
 	/*box-shadow:
       0 0 7px #fff,
       0 0 10px #fff,
@@ -53,7 +53,7 @@ body
 	  0 0 1px #fff,
       0 0 2px #fff,
       0 0 12px #3a49c2,
-      0 0 21px #3a49c2
+      0 0 21px #3a49c2;
 }
 .triangle
 {
@@ -74,5 +74,5 @@ body
 	height: 0;
 	border-left: 120px solid transparent;
 	border-right: 120px solid transparent;
-	border-bottom: 200px solid #fff;
+	border-bottom: 200px solid #231c30;
 }
