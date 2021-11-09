@@ -16,19 +16,20 @@ body
 }
 .circle
 {
-	width: 200px;
-	height: 200px;
 	border: 10px solid #d94a83;
 	border-radius: 50%;
 	filter: drop-shadow(0 0 20px #8c3053);
 }
-.rectangle
+.circle, .rectangle
 {
 	width: 200px;
 	height: 200px;
-	margin: 0 120px 0 128px;
+}
+.rectangle
+{
 	border: 10px solid #3a49c2;
 	filter: drop-shadow(0 0 20px #232d75);
+	margin: 0 120px 0 128px;
 }
 .triangle
 {
