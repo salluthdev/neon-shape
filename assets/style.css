@@ -32,14 +32,14 @@ body
 	height: 200px;
 	margin: 0 120px;
 	border: 10px solid #3a49c2;
-	filter: drop-shadow(0 0 10px #3a49c2);
+	filter: drop-shadow(0 0 8px #3a49c2);
 }
 .triangle
 {
 	width: 250px;
 	height: 300px;
 	fill: rgba(255, 255, 255, 0);
-	filter: drop-shadow(0 0 10px #19754b);
+	filter: drop-shadow(0 0 8px #19754b);
 	stroke: #29c17c;
 	stroke-width: 24px;
 }
