@@ -61,3 +61,10 @@ body
 		margin: 46px 0 0;
 	}
 }
+@media (max-width: 1000px) and (max-height: 768px)
+{
+	body
+	{
+		height: 800px;
+	}
+}
