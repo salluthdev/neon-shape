@@ -36,10 +36,10 @@ body
 }
 .triangle
 {
+	width: 250px;
+	height: 300px;
 	fill: rgba(255, 255, 255, 0);
 	filter: drop-shadow(0 0 10px #19754b);
 	stroke: #29c17c;
 	stroke-width: 20px;
-	width: 250px;
-	height: 300px;
 }
