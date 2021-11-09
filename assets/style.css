@@ -38,7 +38,8 @@ body
       0 0 12px #3a49c2,
       0 0 21px #3a49c2;
 }
-.teamItem__triangle {
+.triangle
+{
 	fill: rgba(255, 255, 255, 0);
 	filter: drop-shadow(0 0 10px #29c17c);
 	stroke: #fff;
