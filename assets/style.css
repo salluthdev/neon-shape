@@ -39,3 +39,25 @@ body
 	stroke: #29c17c;
 	stroke-width: 24px;
 }
+
+@media (max-width: 1000px)
+{
+	body
+	{
+		flex-direction: column;
+	}
+	body::before
+	{
+		position: absolute;
+		content: '';
+		top: 0;
+		left: 50%;
+		width: 2px;
+		height: 100%;
+		background: rgba(255, 255, 255, 0.5);
+	}
+	.rectangle
+	{
+		margin: 48px 0 0;
+	}
+}
