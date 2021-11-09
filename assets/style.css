@@ -18,9 +18,9 @@ body
 {
 	width: 200px;
 	height: 200px;
-	border: 10px solid #dd4581;
+	border: 10px solid #d94a83;
 	border-radius: 50%;
-	filter: drop-shadow(0 0 8px #912d53);
+	filter: drop-shadow(0 0 8px #8c3053);
 }
 .rectangle
 {
@@ -28,7 +28,7 @@ body
 	height: 200px;
 	margin: 0 120px;
 	border: 10px solid #3a49c2;
-	filter: drop-shadow(0 0 8px #3a49c2);
+	filter: drop-shadow(0 0 8px #232d75);
 }
 .triangle
 {
