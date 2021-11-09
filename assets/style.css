@@ -31,12 +31,12 @@ body
 	width: 200px;
 	height: 200px;
 	margin: 0 120px;
-	border: 8px solid #fff;
+	border: 8px solid #3a49c2;
 	box-shadow:
-	  inset 0 0 12px #3a49c2,
-	  inset 0 0 21px #3a49c2,
-      0 0 12px #3a49c2,
-      0 0 21px #3a49c2;
+	  inset 0 0 9px #232d75,
+	  inset 0 0 18px #232d75,
+      0 0 9px #232d75,
+      0 0 18px #232d75;
 }
 .triangle
 {
