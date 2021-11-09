@@ -20,22 +20,22 @@ body
 	height: 200px;
 	border: 10px solid #d94a83;
 	border-radius: 50%;
-	filter: drop-shadow(0 0 8px #8c3053);
+	filter: drop-shadow(0 0 20px #8c3053);
 }
 .rectangle
 {
 	width: 200px;
 	height: 200px;
-	margin: 0 120px;
+	margin: 0 120px 0 128px;
 	border: 10px solid #3a49c2;
-	filter: drop-shadow(0 0 8px #232d75);
+	filter: drop-shadow(0 0 20px #232d75);
 }
 .triangle
 {
 	width: 250px;
 	height: 300px;
 	fill: rgba(255, 255, 255, 0);
-	filter: drop-shadow(0 0 8px #19754b);
+	filter: drop-shadow(0 0 20px #19754b);
 	stroke: #29c17c;
 	stroke-width: 24px;
 }
@@ -58,6 +58,6 @@ body
 	}
 	.rectangle
 	{
-		margin: 48px 0 0;
+		margin: 46px 0 0;
 	}
 }
